@@ -1,5 +1,4 @@
-colemercer.github.io
-====================
+colemercer
+==========
 
-Hey there. This is where my personal website lives. 
-
+Personal Website

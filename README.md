@@ -1,4 +1,5 @@
 colemercer.github.io
 ====================
 
-Cole's personal website
+Hey there. This is where my personal website lives. 
+
